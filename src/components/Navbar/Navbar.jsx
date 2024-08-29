@@ -34,6 +34,12 @@ const Navbar = () => {
             <li>
               <a>Pages to Read</a>
             </li>
+            <li>
+              <a>Top 100</a>
+            </li>
+            <li>
+              <a>Must Read</a>
+            </li>
           </ul>
         </div>
         <a className="btn btn-ghost text-xl font-bold ">Book vite</a>
@@ -49,6 +55,12 @@ const Navbar = () => {
           </li>
           <li>
             <a>Pages to Read</a>
+          </li>
+          <li>
+            <a>Top 100</a>
+          </li>
+          <li>
+            <a>Must Read</a>
           </li>
         </ul>
       </div>
